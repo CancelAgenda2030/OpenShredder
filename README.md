@@ -18,6 +18,12 @@ How to use ?
 
 -> The GUI will run and you will be able to choose file/folder, methods and number of passes.
 
+
+Donate :
+
+BTC : bc1q3wvm844qlcctlmul6n5nsf238ql4t886sks6cr
+
+
 Screenshot :
 
 ![Capture](https://github.com/user-attachments/assets/bc13df29-8f61-4330-94f7-1830555af189)
